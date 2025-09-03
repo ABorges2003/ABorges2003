@@ -16,3 +16,7 @@
 [![](https://visitcount.itsvg.in/api?id=ABorges2003&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 📱 Current Project
+I’m currently developing a **React Native project**.  
+Check it out here: [📂 Project Repository](https://github.com/ABorges2003/ReactNative_Project)
