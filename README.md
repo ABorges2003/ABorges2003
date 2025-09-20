@@ -16,6 +16,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 📱 Current Project
-I’m currently developing a **React Native project**.  
-Check it out here: [📂 Project Repository](https://github.com/ABorges2003/ReactNative_Project)
+## 📱 Projects
+- ✅ Completed: **React Native project** for library and book management.  
+  Check it out here: [📂 Project Repository](https://github.com/ABorges2003/ReactNative_Project)  
+- 🚀 Upcoming: Planning to build a **REST API with Java and Spring Boot** to practice backend development and API design.  
