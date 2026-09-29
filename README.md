@@ -20,4 +20,5 @@
 ## 📱 Projects
 - ✅ Completed: **React Native project** for library and book management.  
   Check it out here: [📂 Project Repository](https://github.com/ABorges2003/ReactNative_Project)  
-- 🚀 Upcoming: Planning to build a **REST API with Java and Spring Boot** to practice backend development and API design.  
+- 🚧 In progress: **Convocado**, a web app to manage amateur football teams (scheduling, attendance, stats and balanced team generation), built with **C#, ASP.NET Core and Blazor**.  
+  Check it out here: [📂 Project Repository](https://github.com/ABorges2003/Convocado) 
