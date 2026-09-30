@@ -19,6 +19,8 @@
 
 ## 📱 Projects
 - ✅ Completed: **React Native project** for library and book management.  
-  Check it out here: [📂 Project Repository](https://github.com/ABorges2003/ReactNative_Project)  
+  Check it out here: [📂 Project Repository](https://github.com/ABorges2003/ReactNative_Project)
+  - 🚧 In progress: **GymLog**, an offline Android app to log gym workouts and body weight, with history, progress charts and personal records, built with **React Native, Expo, TypeScript and SQLite**.  
+  Check it out here: [📂 Project Repository](https://github.com/ABorges2003/GymLog)
 - 🚧 In progress: **Convocado**, a web app to manage amateur football teams (scheduling, attendance, stats and balanced team generation), built with **C#, ASP.NET Core and Blazor**.  
   Check it out here: [📂 Project Repository](https://github.com/ABorges2003/Convocado) 
