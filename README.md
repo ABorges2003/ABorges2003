@@ -1,25 +1,48 @@
-# 💫 About Me:
-🎓 I’m a 3rd-year student in **Telecommunications and Computer Engineering** at ISEP.<br>🌐 I’m currently attending a **SAP Academy (Neptune & SAP Build)**, focused on **low-code / pro-code development**, **process automation**, and **enterprise integration**.
-<br>💻 Currently improving my skills in **C++, Java, Python, JavaScript, REST APIs, Node.js, SQL** and exploring **Machine Learning** and **low-code platforms**.  <br>🔧 Background in **Electronics** (Arduino, sensors, motors, circuits) and experience as a **Technical Assistant** in industrial machinery maintenance.  <br>🌱 I’m currently learning more about **distributed systems (RabbitMQ)**, **cloud platforms** and **web development**.  <br>🤝 I’m looking to collaborate on projects involving **software development**, **telecommunications systems**, and **emerging technologies**.  <br>📫 Reach me at: **andre.miranda.borges@gmail.com**  <br>
+# Hi, I'm André 👋
 
+Software developer from Porto, Portugal. I hold a degree in **Telecommunications and Computer Engineering (LETI)** from ISEP and I build backend and full-stack applications, mostly with **C#/.NET** and now **Java/Spring Boot**.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/André Borges](https://www.linkedin.com/in/andr%C3%A9-borges-4a3468379/)) 
+- 💼 Software development intern at **MDS Corretor de Seguros**, building a Blazor Server app that automates insurance workflows in a CRM.
+- 🌱 Currently learning **Java, Spring Boot and PostgreSQL** by building a REST API from scratch.
+- 🔧 Background in **electronics** (Arduino, sensors, circuits) and industrial machinery maintenance.
+- 🎯 Open to **junior software developer** roles in the Porto area.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=ABorges2003&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ABorges2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-borges-4a3468379/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andre.miranda.borges@gmail.com)
 
----
-[![](https://visitcount.itsvg.in/api?id=ABorges2003&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🚀 Projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| [**TableBook**](https://github.com/ABorges2003/TableBook) | REST API for restaurant reservations with availability search, no double booking and role-based access | Java 21, Spring Boot, PostgreSQL, Docker | 🚧 In progress |
+| [**GymLog**](https://github.com/ABorges2003/GymLog) | Offline Android app to log workouts and body weight, with progress charts and personal records | React Native, Expo, TypeScript, SQLite | ✅ Done |
+| [**ReactNative_Project**](https://github.com/ABorges2003/ReactNative_Project) | Mobile app for library and book management | React Native | ✅ Done |
 
-## 📱 Projects
-- ✅ Completed: **React Native project** for library and book management.  
-  Check it out here: [📂 Project Repository](https://github.com/ABorges2003/ReactNative_Project)
-- ✅ Completed: **GymLog**, an offline Android app to log gym workouts and body weight, with history, progress charts and personal records, built with **React Native, Expo, TypeScript and SQLite**.  
-  Check it out here: [📂 Project Repository](https://github.com/ABorges2003/GymLog)
+## 🛠️ Tech stack
 
+**Languages**  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Frameworks**  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
