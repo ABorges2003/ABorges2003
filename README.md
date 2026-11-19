@@ -18,6 +18,20 @@ Software developer from Porto, Portugal. I hold a degree in **Telecommunications
 | [**GymLog**](https://github.com/ABorges2003/GymLog) | Offline Android app to log workouts and body weight, with progress charts and personal records | React Native, Expo, TypeScript, SQLite | ✅ Done |
 | [**ReactNative_Project**](https://github.com/ABorges2003/ReactNative_Project) | Mobile app for library and book management | React Native | ✅ Done |
 
+## 📚 Learning & certifications
+ 
+### [GitHub Foundations](https://learn.microsoft.com/training/paths/github-foundations) · Microsoft Learn 🚧
+ 
+Hands-on GitHub Skills exercises, each one completed in its own repository:
+ 
+| Module | Exercise | Status |
+|---|---|---|
+| Introduction to Git | [skills-introduction-to-git](https://github.com/AndreBorges2003/skills-introduction-to-git) | ✅ Completed |
+ 
+### Completed
+ 
+- 🛡️ **Introduction to Cybersecurity** · Cisco Networking Academy (Nov 2026)
+
 ## 🛠️ Tech stack
 
 **Languages**  
