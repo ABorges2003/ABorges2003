@@ -30,7 +30,7 @@ Hands-on GitHub Skills exercises, each one completed in its own repository:
  
 ### Completed
  
-- 🛡️ **Introduction to Cybersecurity** · Cisco Networking Academy (Nov 2026)
+- 🛡️ [**Introduction to Cybersecurity**](https://www.netacad.com/courses/introduction-to-cybersecurity) · Cisco Networking Academy (Nov 2026)
 
 ## 🛠️ Tech stack
 
