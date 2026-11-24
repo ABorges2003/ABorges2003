@@ -1,38 +1,34 @@
-# Hi, I'm André 👋
+# Hi, I'm André
 
 Software developer from Porto, Portugal. I hold a degree in **Telecommunications and Computer Engineering (LETI)** from ISEP and I build backend and full-stack applications, mostly with **C#/.NET** and now **Java/Spring Boot**.
 
-- 💼 Software development intern at **MDS Corretor de Seguros**, building a Blazor Server app that automates insurance workflows in a CRM.
-- 🌱 Currently learning **Java, Spring Boot and PostgreSQL** by building a REST API from scratch.
-- 🔧 Background in **electronics** (Arduino, sensors, circuits) and industrial machinery maintenance.
-- 🎯 Open to **junior software developer** roles in the Porto area.
+- Software development intern at **MDS Corretor de Seguros**, building a Blazor Server app that automates insurance workflows in a CRM.
+- Currently learning **Java, Spring Boot and PostgreSQL** by building a REST API from scratch.
+- Background in **electronics** (Arduino, sensors, circuits) and industrial machinery maintenance.
+- Open to **junior software developer** roles in the Porto area.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-borges-4a3468379/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andre.miranda.borges@gmail.com)
 
-## 🚀 Projects
+## Projects
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| [**TableBook**](https://github.com/ABorges2003/TableBook) | REST API for restaurant reservations with availability search, no double booking and role-based access | Java 21, Spring Boot, PostgreSQL, Docker | 🚧 In progress |
-| [**GymLog**](https://github.com/ABorges2003/GymLog) | Offline Android app to log workouts and body weight, with progress charts and personal records | React Native, Expo, TypeScript, SQLite | ✅ Done |
-| [**ReactNative_Project**](https://github.com/ABorges2003/ReactNative_Project) | Mobile app for library and book management | React Native | ✅ Done |
+| [**TableBook**](https://github.com/ABorges2003/TableBook) | REST API for restaurant reservations with availability search, no double booking and role-based access | Java 21, Spring Boot, PostgreSQL, Docker | In progress |
+| [**GymLog**](https://github.com/ABorges2003/GymLog) | Offline Android app to log workouts and body weight, with progress charts and personal records | React Native, Expo, TypeScript, SQLite | Done |
+| [**ReactNative_Project**](https://github.com/ABorges2003/ReactNative_Project) | Mobile app for library and book management | React Native | Done |
 
-## 📚 Learning & certifications
- 
-### [GitHub Foundations](https://learn.microsoft.com/training/paths/github-foundations) · Microsoft Learn 🚧
- 
-Hands-on GitHub Skills exercises, each one completed in its own repository:
- 
-| Module | Exercise | Status |
-|---|---|---|
-| Introduction to Git | [skills-introduction-to-git](https://github.com/AndreBorges2003/skills-introduction-to-git) | ✅ Completed |
- 
+## Courses
+
+### In progress
+
+- [**GitHub Foundations**](https://learn.microsoft.com/training/paths/github-foundations) · Microsoft Learn — Part 1 of 2 completed
+
 ### Completed
- 
-- 🛡️ [**Introduction to Cybersecurity**](https://www.netacad.com/courses/introduction-to-cybersecurity) · Cisco Networking Academy (Nov 2026)
 
-## 🛠️ Tech stack
+- [**Introduction to Cybersecurity**](https://www.netacad.com/courses/introduction-to-cybersecurity) · Cisco Networking Academy (Nov 2026)
+
+## Tech stack
 
 **Languages**  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
